@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0001-two-sum) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,5 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 <!---LeetCode Topics End-->
