@@ -54,4 +54,8 @@
 | ------- |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
