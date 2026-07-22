@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
 |  |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
@@ -87,4 +91,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
