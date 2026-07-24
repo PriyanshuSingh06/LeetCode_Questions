@@ -1,76 +1,75 @@
 class Solution {
 
-    private final String[] below20 = {
-        "", "One", "Two", "Three", "Four",
-        "Five", "Six", "Seven", "Eight", "Nine",
-        "Ten", "Eleven", "Twelve", "Thirteen",
-        "Fourteen", "Fifteen", "Sixteen",
-        "Seventeen", "Eighteen", "Nineteen"
+    private static final String[] BELOW_20 = {
+        "", "One", "Two", "Three", "Four", "Five",
+        "Six", "Seven", "Eight", "Nine", "Ten",
+        "Eleven", "Twelve", "Thirteen", "Fourteen",
+        "Fifteen", "Sixteen", "Seventeen",
+        "Eighteen", "Nineteen"
     };
 
-    private final String[] tens = {
+    private static final String[] TENS = {
         "", "", "Twenty", "Thirty", "Forty",
-        "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"
-    };
-
-    private final String[] units = {
-        "", "Thousand", "Million", "Billion"
+        "Fifty", "Sixty", "Seventy",
+        "Eighty", "Ninety"
     };
 
     public String numberToWords(int num) {
-
         if (num == 0) {
             return "Zero";
         }
 
-        String result = "";
-        int index = 0;
+        StringBuilder sb = new StringBuilder();
 
-        while (num > 0) {
+        int billion  = num / 1_000_000_000;
+        int million  = (num / 1_000_000) % 1000;
+        int thousand = (num / 1_000) % 1000;
+        int rest     = num % 1000;
 
-            int chunk = num % 1000;
-
-            if (chunk != 0) {
-                String part = convert(chunk);
-
-                if (!units[index].isEmpty()) {
-                    part += " " + units[index];
-                }
-
-                if (result.isEmpty()) {
-                    result = part;
-                } else {
-                    result = part + " " + result;
-                }
-            }
-
-            num /= 1000;
-            index++;
+        if (billion > 0) {
+            convert(billion, sb);
+            sb.append("Billion ");
         }
 
-        return result;
+        if (million > 0) {
+            convert(million, sb);
+            sb.append("Million ");
+        }
+
+        if (thousand > 0) {
+            convert(thousand, sb);
+            sb.append("Thousand ");
+        }
+
+        if (rest > 0) {
+            convert(rest, sb);
+        }
+
+        // Remove final extra space
+        sb.setLength(sb.length() - 1);
+
+        return sb.toString();
     }
 
-    private String convert(int num) {
+    private void convert(int num, StringBuilder sb) {
 
-        if (num == 0) {
-            return "";
+        if (num >= 100) {
+            sb.append(BELOW_20[num / 100])
+              .append(" Hundred ");
+
+            num %= 100;
         }
 
-        if (num < 20) {
-            return below20[num];
+        if (num >= 20) {
+            sb.append(TENS[num / 10])
+              .append(' ');
+
+            num %= 10;
         }
 
-        if (num < 100) {
-            return tens[num / 10] +
-                   (num % 10 == 0
-                       ? ""
-                       : " " + below20[num % 10]);
+        if (num > 0) {
+            sb.append(BELOW_20[num])
+              .append(' ');
         }
-
-        return below20[num / 100] + " Hundred" +
-               (num % 100 == 0
-                   ? ""
-                   : " " + convert(num % 100));
     }
 }
