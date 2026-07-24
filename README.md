@@ -73,6 +73,7 @@
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Math
 |  |
 | ------- |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String Matching
+|  |
+| ------- |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 <!---LeetCode Topics End-->
