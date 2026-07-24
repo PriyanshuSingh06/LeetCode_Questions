@@ -70,6 +70,7 @@
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
+| [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
@@ -78,6 +79,7 @@
 | [0007-reverse-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
+| [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 ## Design
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 ## Trie
 |  |
 | ------- |
