@@ -1,44 +1,37 @@
 class Solution {
-
     public int minStartingIndex(String s, String pattern) {
         int n = s.length();
         int m = pattern.length();
 
-        // Prefix matches
-        String combined1 = pattern + "#" + s;
-        int[] z1 = zFunction(combined1);
+        // Match pattern with s from the left
+        int[] prefix = zFunction(pattern + "#" + s);
 
-        // Suffix matches using reversed strings
-        String rs = new StringBuilder(s).reverse().toString();
-        String rp = new StringBuilder(pattern).reverse().toString();
+        // Match pattern with s from the right
+        String revS = new StringBuilder(s).reverse().toString();
+        String revP = new StringBuilder(pattern).reverse().toString();
 
-        String combined2 = rp + "#" + rs;
-        int[] z2 = zFunction(combined2);
+        int[] suffix = zFunction(revP + "#" + revS);
 
         for (int i = 0; i <= n - m; i++) {
 
-            // Number of matching chars from the left
-            int left = Math.min(
-                z1[m + 1 + i],
-                m
+            int leftMatch = Math.min(
+                prefix[m + 1 + i], m
             );
 
             // Exact match
-            if (left == m) {
+            if (leftMatch == m) {
                 return i;
             }
 
-            // Starting index of reversed substring
-            int revStart = n - (i + m);
+            // Position of this substring in reversed s
+            int revStart = n - i - m;
 
-            // Number of matching chars from the right
-            int right = Math.min(
-                z2[m + 1 + revStart],
-                m
+            int rightMatch = Math.min(
+                suffix[m + 1 + revStart], m
             );
 
-            // At most one mismatch
-            if (left + right >= m - 1) {
+            // All chars except at most one must match
+            if (leftMatch + rightMatch >= m - 1) {
                 return i;
             }
         }
@@ -50,15 +43,15 @@ class Solution {
         int n = str.length();
         int[] z = new int[n];
 
-        int l = 0;
-        int r = 0;
+        int left = 0;
+        int right = 0;
 
         for (int i = 1; i < n; i++) {
 
-            if (i <= r) {
+            if (i <= right) {
                 z[i] = Math.min(
-                    r - i + 1,
-                    z[i - l]
+                    right - i + 1,
+                    z[i - left]
                 );
             }
 
@@ -67,9 +60,9 @@ class Solution {
                 z[i]++;
             }
 
-            if (i + z[i] - 1 > r) {
-                l = i;
-                r = i + z[i] - 1;
+            if (i + z[i] - 1 > right) {
+                left = i;
+                right = i + z[i] - 1;
             }
         }
 
