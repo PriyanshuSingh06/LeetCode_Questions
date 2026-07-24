@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
@@ -75,6 +77,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 ## Design
 |  |
 | ------- |
