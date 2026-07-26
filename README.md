@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
@@ -103,10 +104,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 ## Trie
