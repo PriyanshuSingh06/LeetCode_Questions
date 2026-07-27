@@ -1,35 +1,33 @@
+
 class Solution {
     public String convert(String s, int numRows) {
-
-        if (numRows == 1 || numRows >= s.length()) {
+        // Base cases: if only 1 row or string is shorter than rows, no change is needed
+        if (numRows == 1 || s.length() <= numRows) {
             return s;
         }
 
-        StringBuilder[] rows = new StringBuilder[numRows];
+        int n = s.length();
+        char[] result = new char[n];
+        int cycleStep = 2 * numRows - 2;
+        int count = 0;
 
+        // Process row by row
         for (int i = 0; i < numRows; i++) {
-            rows[i] = new StringBuilder();
-        }
-
-        int currentRow = 0;
-        boolean goingDown = false;
-
-        for (char c : s.toCharArray()) {
-            rows[currentRow].append(c);
-
-            if (currentRow == 0 || currentRow == numRows - 1) {
-                goingDown = !goingDown;
+            // Traverse the string in jumps of cycleStep
+            for (int j = 0; j + i < n; j += cycleStep) {
+                // 1. Add the main vertical column character
+                result[count++] = s.charAt(j + i);
+                
+                // 2. Add the inner diagonal character if we are in a middle row
+                if (i != 0 && i != numRows - 1) {
+                    int diagonalIndex = j + cycleStep - i;
+                    if (diagonalIndex < n) {
+                        result[count++] = s.charAt(diagonalIndex);
+                    }
+                }
             }
-
-            currentRow += goingDown ? 1 : -1;
         }
 
-        StringBuilder result = new StringBuilder();
-
-        for (StringBuilder row : rows) {
-            result.append(row);
-        }
-
-        return result.toString();
+        return new String(result);
     }
 }
