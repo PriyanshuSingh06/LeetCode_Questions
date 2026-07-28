@@ -25,6 +25,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -32,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Dynamic Programming
 |  |
@@ -107,6 +109,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -131,4 +134,12 @@
 |  |
 | ------- |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
