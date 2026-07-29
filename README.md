@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0283-move-zeroes) |
@@ -20,6 +21,7 @@
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -141,6 +145,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
