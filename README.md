@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
