@@ -1,26 +1,16 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) {
- *         this.val = val;
- *         this.next = next;
- *     }
- * }
- */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode current = head;
+        // Base case
+        if (head == null || head.next == null) {
+            return head;
+        }
 
-        while (current != null && current.next != null) {
-            if (current.val == current.next.val) {
-                current.next = current.next.next;
-            } else {
-                current = current.next;
-            }
+        // Process the remaining list
+        head.next = deleteDuplicates(head.next);
+
+        // Remove duplicate
+        if (head.val == head.next.val) {
+            return head.next;
         }
 
         return head;
