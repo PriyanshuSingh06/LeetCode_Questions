@@ -56,6 +56,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
@@ -160,4 +162,9 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
