@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -34,6 +35,7 @@
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
@@ -50,12 +52,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -176,6 +180,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 ## Game Theory
