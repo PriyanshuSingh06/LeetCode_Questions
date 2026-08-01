@@ -15,6 +15,7 @@
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
+| [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
+| [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
 ## Design
 |  |
@@ -137,6 +140,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
 | ------- |
@@ -174,4 +178,8 @@
 | ------- |
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
