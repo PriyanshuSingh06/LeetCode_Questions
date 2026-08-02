@@ -82,6 +82,7 @@
 | [0101-symmetric-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,4 +195,9 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0101-symmetric-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
