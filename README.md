@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
+| [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 ## Design
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,4 +220,12 @@
 |  |
 | ------- |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
