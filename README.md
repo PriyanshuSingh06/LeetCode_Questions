@@ -18,6 +18,7 @@
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
 |  |
 | ------- |
