@@ -54,6 +54,7 @@
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3731-find-missing-elements](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
+| [1859-sorting-the-sentence](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1859-sorting-the-sentence) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Math
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
