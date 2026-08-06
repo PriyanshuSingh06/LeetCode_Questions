@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
@@ -112,6 +113,7 @@
 | [0006-zigzag-conversion](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -172,6 +174,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 ## Memoization
 |  |
