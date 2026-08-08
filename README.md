@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -227,6 +230,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0101-symmetric-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
