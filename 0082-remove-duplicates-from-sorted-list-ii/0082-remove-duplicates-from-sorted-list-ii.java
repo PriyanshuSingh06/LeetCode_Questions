@@ -1,25 +1,37 @@
-class Solution {
+ class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        // Base case
-        if (head == null || head.next == null) {
-            return head;
-        }
 
-        // Current value appears more than once.
-        if (head.val == head.next.val) {
-            int value = head.val;
+        // Dummy node before head
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-            // Skip all nodes having the same value.
-            while (head != null && head.val == value) {
-                head = head.next;
+        ListNode prev = dummy;
+        ListNode curr = head;
+
+        while (curr != null) {
+
+            // Check if current value is duplicated
+            if (curr.next != null &&
+                curr.val == curr.next.val) {
+
+                int duplicateValue = curr.val;
+
+                // Skip all nodes having this value
+                while (curr != null &&
+                       curr.val == duplicateValue) {
+                    curr = curr.next;
+                }
+
+                prev.next = curr;
+
+            } else {
+
+                // Current node is unique
+                prev = curr;
+                curr = curr.next;
             }
-
-            return deleteDuplicates(head);
         }
 
-        // Keep the current node.
-        head.next = deleteDuplicates(head.next);
-
-        return head;
+        return dummy.next;
     }
 }
