@@ -69,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0025-reverse-nodes-in-k-group) |
