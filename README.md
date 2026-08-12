@@ -161,6 +161,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
@@ -173,6 +174,7 @@
 | [0002-add-two-numbers](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -212,11 +214,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
 ## Greedy
 |  |
@@ -280,4 +284,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
