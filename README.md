@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -125,6 +126,7 @@
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -273,4 +276,8 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
