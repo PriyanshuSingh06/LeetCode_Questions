@@ -20,6 +20,7 @@
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
+| [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@
 | [0234-palindrome-linked-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
+| [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0016-3sum-closest](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -228,6 +231,7 @@
 | [0011-container-with-most-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
 ## Monotonic Stack
 |  |
@@ -288,4 +292,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
