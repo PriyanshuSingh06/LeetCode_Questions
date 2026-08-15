@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -38,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -303,4 +305,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
