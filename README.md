@@ -81,6 +81,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -89,6 +90,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -138,6 +140,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -299,6 +302,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 ## Tournament Sort
 |  |
 | ------- |
