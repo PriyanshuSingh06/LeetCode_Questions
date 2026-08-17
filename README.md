@@ -15,6 +15,7 @@
 | [0031-next-permutation](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -41,6 +42,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0039-combination-sum) |
 ## String Matching
 |  |
@@ -318,6 +321,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -330,4 +334,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
