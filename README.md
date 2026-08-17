@@ -55,6 +55,7 @@
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -139,6 +140,7 @@
 | [0014-longest-common-prefix](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0058-length-of-last-word) |
@@ -225,6 +227,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Divide and Conquer
 |  |
@@ -315,4 +318,16 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
