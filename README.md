@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
