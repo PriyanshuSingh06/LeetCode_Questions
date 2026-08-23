@@ -154,6 +154,7 @@
 | [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0520-detect-capital) |
 | [1859-sorting-the-sentence](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1859-sorting-the-sentence) |
+| [1927-sum-game](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1927-sum-game) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Math
@@ -168,6 +169,7 @@
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
 | [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1927-sum-game) |
 ## Design
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
+| [1927-sum-game](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1927-sum-game) |
 ## Breadth-First Search
 |  |
 | ------- |
