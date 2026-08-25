@@ -87,6 +87,7 @@
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
@@ -165,6 +166,7 @@
 | [0009-palindrome-number](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
@@ -224,6 +226,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 ## Backtracking
 |  |
