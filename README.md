@@ -31,6 +31,7 @@
 | [1406-stone-game-iii](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [3731-find-missing-elements](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
@@ -265,6 +266,7 @@
 | [0455-assign-cookies](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
 | [1927-sum-game](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |
 | ------- |
