@@ -88,6 +88,7 @@
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
@@ -150,6 +151,7 @@
 | [0038-count-and-say](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
