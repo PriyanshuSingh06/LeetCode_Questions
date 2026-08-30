@@ -167,6 +167,7 @@
 | [0012-integer-to-roman](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0089-gray-code) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [0738-monotone-increasing-digits](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0738-monotone-increasing-digits) |
@@ -235,6 +236,7 @@
 | [0022-generate-parentheses](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0089-gray-code) |
 ## String Matching
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/0089-gray-code) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/PriyanshuSingh06/LeetCode_Questions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Union-Find
 |  |
